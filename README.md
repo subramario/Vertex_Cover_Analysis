@@ -10,7 +10,7 @@ Analyzed algorithmic efficiency of three approaches to solving the minimum verte
 
 **Edge:** a bidirectional line which connects an unordered pair of vertices together.
 
-**Minimum Vertex Cover:** the smallest possible subset of vertices of an undirected graph such that every edge in the graph has at least one endpoint in the vertex cover.
+**Vertex Cover:** the subset of vertices of an undirected graph such that every edge in the graph has at least one endpoint in the vertex cover.
 
 ## Encoding
 ![](clauses.png)
