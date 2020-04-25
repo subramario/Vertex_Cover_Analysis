@@ -8,7 +8,7 @@ Analyzed algorithmic efficiency of three approaches to solving the minimum verte
 V 10
 E {<1,2>,<7,1>,<3,6>,<4,6>,<0,7>,<2,8>,<0,9>,<5,4>,<8,4>,<2,4>,<3,4>,<0,6>,<4,1>,<9,1>,<6,5>}
 ```
-**Output:***
+**Output:**
 ```
 Vertex Cover for CNF-SAT-VC: 2,4,6,7,9
 Vertex Cover for APPROX-VC-1: 0,1,2,4,6
