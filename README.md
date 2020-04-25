@@ -1,7 +1,7 @@
 # Vertex Cover Analysis
 
 ## Purpose
-Analyzed algorithmic efficiency of three approaches to solving the minimum vertex cover for undirected graphs of various sizes. For a comprehensive breakdown of this experiment, please refer to "Formal_Report.pdf" within this repository.
+Analyzed algorithmic efficiency of three approaches to solving the Minimum Vertex Cover for undirected graphs of various sizes. For a comprehensive breakdown of this experiment, please refer to "Formal_Report.pdf" within this repository.
 
 ## Definitions
 **Undirected Graph:** a set of objects (called vertices or nodes) that are connected together, where all the edges are bidirectional.
@@ -10,7 +10,7 @@ Analyzed algorithmic efficiency of three approaches to solving the minimum verte
 
 **Edge:** a bidirectional line which connects an unordered pair of vertices together.
 
-**Vertex Cover:** the subset of vertices of an undirected graph such that every edge in the graph has at least one endpoint in the vertex cover.
+**Minimum Vertex Cover:** the smallest possible subset of vertices of an undirected graph such that every edge in the graph has at least one endpoint in the vertex cover.
 
 ## Encoding
 ![](clauses.png)
