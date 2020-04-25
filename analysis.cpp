@@ -481,8 +481,7 @@ void threaded_vc(unsigned int num_vert, std::vector<unsigned int> adj_list_1[], 
 
 
 int main(int argc, char* argv[]){
-
-    //local variables declared here
+    
     smatch m;
     string input;
     unsigned int a,b,c,V = 1;
