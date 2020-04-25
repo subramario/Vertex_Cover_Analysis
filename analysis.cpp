@@ -472,8 +472,8 @@ void threaded_vc(unsigned int num_vert, std::vector<unsigned int> adj_list_1[], 
     cout << "APPROX-VC-2 Runtime: " << approx_vc2_runtime << " microseconds" << endl;
     cout << endl;
 
-    std::cout << "Approximation ratio for APPROX-VC-1:  " << fixed << setprecision(2) << approx_1_size/cnf_size << std::endl;
-    std::cout << "Approximation ratio for APPROX-VC-2:  " << fixed << setprecision(2) << approx_2_size/cnf_size << std::endl;
+    std::cout << "Approximation Ratio for APPROX-VC-1:  " << fixed << setprecision(2) << approx_1_size/cnf_size << std::endl;
+    std::cout << "Approximation Ratio for APPROX-VC-2:  " << fixed << setprecision(2) << approx_2_size/cnf_size << std::endl;
 
     return;
 
@@ -481,7 +481,7 @@ void threaded_vc(unsigned int num_vert, std::vector<unsigned int> adj_list_1[], 
 
 
 int main(int argc, char* argv[]){
-    
+
     smatch m;
     string input;
     unsigned int a,b,c,V = 1;
