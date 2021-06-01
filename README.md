@@ -54,7 +54,7 @@ Minimum Vertex Cover = 3 4
 ```
 **Graphical Representation:**
 
-![](MVC.PNG)
+![](MVC.png)
 
 **_Note:_** _graphed using VisualGO:_ https://visualgo.net/en/mvc
 
