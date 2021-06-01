@@ -46,7 +46,19 @@ To specify the edge list for the graph:
 E {<1,2>,<7,1>,<3,6>,<4,6>,<0,7>,<2,8>,<0,9>,<5,4>,<8,4>,<2,4>,<3,4>,<0,6>,<4,1>,<9,1>,<6,5>}
 ```
 
-## Example
+## Vertex Cover Example
+```
+Number of Vertices = 5
+Edge List =  {<0,4>,<4,1>,<0,3>,<3,4>,<3,2>,<1,3>}
+Minimum Vertex Cover = 3 4
+```
+**Graphical Representation:**
+
+![](MVC.PNG)
+
+**_Note:_** _graphed using VisualGO:_ https://visualgo.net/en/mvc
+
+## Program Example
 
 **Input:**
 ```
